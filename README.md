@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JohanLiebertTheRealOne
 - 👀 I’m interested in creating new things, content creation, coding
 - 🌱 I’m currently learning how to become a better human.
-- 💞️ I’m looking to collaborate on a real-time voice modifier software [C++]
+- 💞️ I’m looking to on projects
 - 📫 How to reach me [[gutsbuthalal@gmail.com]]
 - ⚡ Fun fact: I'm the one who knocks
 
