@@ -2,7 +2,7 @@
 
 ## Who am I ?
 As someone who is very passionate about self-improvement, I've found my One Thing—for life.
-And that thing is coding.
+And that thing is creation.
 
 ## My passion
 It's a lifelong journey of learning.
